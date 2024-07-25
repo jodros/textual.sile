@@ -1,0 +1,54 @@
+[settings]
+#versalete.family = "Alegreya SC"
+#versalete.size = ".8em"
+#versalete.weight = 500
+
+#ellipsis.family = "Symbola"
+#ellipsis.skip = "4%ph"
+#ellipsis.rotate = 0
+#ellipsis.symbol = "*"
+
+#epigraph.style = "italic"
+#epigraph.topSkip = "3%ph"
+#epigraph.bottomSkip = "5%ph"
+#epigraph.width = "50%fw"
+#epigraph.alignment = "right"
+
+#head.folio = true
+#head.family = ""
+#head.indent = true
+#head.openSpread = false
+
+#head.toc = true
+#section.toc = true
+#subsection.toc = true
+
+#head.alignment = "left"
+#section.alignment = "left"
+#subsection.alignment = "left"
+
+#head.topSkip = "3%ph"
+#head.bottomSkip = "7%ph"
+#section.topSkip = "4%ph"
+#section.bottomSkip = "5%ph"
+#subsection.topSkip = "4%ph"
+#subsection.bottomSkip = "5%ph"
+
+#head.case = "uppercase"
+#section.case = "uppercase"
+#subsection.case = "versalete"
+
+#head.size = 20
+#section.size = 15
+subsection.size = 12
+
+#head.weight = 700
+#section.weight = 600
+#subsection.weight = 600
+
+#shrink.right = "15%fw"
+#shrink.left = "15%fw"
+
+#double-skip.height = 0
+#double-skip.top = "4%ph"
+#double-skip.bottom = "4%ph"
